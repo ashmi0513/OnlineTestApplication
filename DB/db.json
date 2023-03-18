@@ -1,0 +1,46 @@
+{
+    "Candidates":[
+        {   
+            "cid" : 1,
+            "name": "Ashmi",
+            "email": "ashmi@xyz.com",
+            "phno": "9413357777",
+            "score": 95
+        },
+        {   
+            "cid" : 2,
+            "name": "Pooja",
+            "email": "poozza@xyz.com",
+            "phno": "9413353555",
+            "score": 85
+        },
+        {   
+            "cid" : 3,
+            "name": "Aashi",
+            "email": "aashi@xyz.com",
+            "phno": "9413353567",
+            "score": 87
+        },
+        {   
+            "cid" : 4,
+            "name": "Ankit",
+            "email": "ankit@xyz.com",
+            "phno": "9413378567",
+            "score": 75
+        },
+        {   
+            "cid" : 5,
+            "name": "Akash",
+            "email": "akash@xyz.com",
+            "phno": "9413765567",
+            "score": 70
+        },
+        {   
+            "cid" : 6,
+            "name": "Sourav",
+            "email": "saurav@xyz.com",
+            "phno": "9413353367",
+            "score": 67
+        }         
+    ]
+}
